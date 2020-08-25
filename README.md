@@ -36,6 +36,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Github Pages + Jekyll + Hydeout](https://fongandrew.github.io/Home/tutorial/2020/08/23/Github-Jekyll-Hydeout.html)
+- [Welcome](https://fongandrew.github.io/Home/2020/08/21/Welcome-to-the-Blog.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://mbarrows20.github.io/Home/)

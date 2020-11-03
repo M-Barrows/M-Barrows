@@ -36,6 +36,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Create a Random Pairing Generator For Your Secret Holiday Gift Exchange](https://mbarrows20.github.io/Home/tutorial/2020/11/03/Creating-A-Random-Secret-Santa-Generator.html)
 - [How To Use Row Level Security and Visual Filters to Set Highly Customizable Data Security in Power BI Reports](https://mbarrows20.github.io/Home/tutorial/2020/11/01/Power-BI-Row-Level-Security-With-Organizational-Rollups.html)
 - [Github Pages + Jekyll + Hydeout](https://mbarrows20.github.io/Home/tutorial/2020/08/23/Github-Jekyll-Hydeout.html)
 - [Welcome](https://mbarrows20.github.io/Home/2020/08/21/Welcome-to-the-Blog.html)

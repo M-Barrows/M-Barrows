@@ -3,9 +3,9 @@
 ### I consume coffee, interact with information, and tinker with technology!
 
 - ☕ I take my coffee black with two sugars - usually made in an [Aeropress](https://aeropress.com/)
-- 📚 I'm currently learning [Flutter](https://flutter.dev/)
+- 🎄 I'm currently working on this year's [Advent of Code](https://adventofcode.com/2020)!
 - 📊 I'm consistently improving my data visualization and modeling techniques
-- 📕 I'm currently reading ["Zen and the Art of Mortorcycle Mainenance"](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance?from_search=true&from_srp=true&qid=xRkq2J0MLh&rank=1)
+- 📕 I'm currently reading ["Dark Matter"](https://www.goodreads.com/book/show/27833670-dark-matter)
 - 🥅 2020 Goal: Contribute more to Open Source Projects
 - 🎲 I'm a fan of [Critical Role](https://critrole.com/)
 

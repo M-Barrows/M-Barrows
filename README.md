@@ -3,10 +3,9 @@
 ### I consume coffee, interact with information, and tinker with technology!
 
 - ☕ I take my coffee black with two sugars - usually made in an [Aeropress](https://aeropress.com/)
-- 🎄 I'm currently working on this year's [Advent of Code](https://adventofcode.com/2020)!
 - 📊 I'm consistently improving my data visualization and modeling techniques
-- 📕 I'm currently reading ["Dark Matter"](https://www.goodreads.com/book/show/27833670-dark-matter)
-- 🥅 2020 Goal: Contribute more to Open Source Projects
+- 📕 I'm currently reading ["Weapons of Math Destruction"](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction)
+- 🥅 2021 Goal: Contribute more to Open Source Projects
 - 🎲 I'm a fan of [Critical Role](https://critrole.com/)
 
 ### Connect with me

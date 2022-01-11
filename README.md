@@ -4,9 +4,11 @@
 
 - ☕ I take my coffee black with two sugars - usually made in an [Aeropress](https://aeropress.com/)
 - 📊 I'm consistently improving my data visualization and modeling techniques
-- 📕 I'm currently reading ["Weapons of Math Destruction"](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction)
-- 🥅 2021 Goal: Contribute more to Open Source Projects
+- 📕 I'm currently reading the [Mistborn Saga](https://www.goodreads.com/series/40910-the-mistborn-saga) by Brandon Sanderson
+- 🥅 2022 Goal: Contribute more to Open Source Projects
 - 🎲 I'm a fan of [Critical Role](https://critrole.com/)
+- 💻 My current primary language is 🐍 Python
+- 🗨 I'd love to learn about Machine Learning Operations from you! 
 
 ### Connect with me
 

@@ -12,8 +12,8 @@
 
 ### Connect with me
 
-<a href="https://twitter.com/Michael_Barrows"><img align="left" alt="Michael Barrows | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="www.linkedin.com/in/michaelabarrows"><img align="left" alt="Michael Barrows | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a rel="me" href="https://hachyderm.io/@CodeAndCoffee">🐘Mastodon</a>
+<a href="www.linkedin.com/in/michaelabarrows">👨‍🏫LinkedIn</a>
 
 
 <br />

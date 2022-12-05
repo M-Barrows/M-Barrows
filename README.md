@@ -4,7 +4,7 @@
 
 - ☕ I take my coffee black with two sugars - usually made in an [Aeropress](https://aeropress.com/)
 - 📊 I'm consistently improving my data visualization and modeling techniques
-- 📕 I'm currently reading the [Mistborn Saga](https://www.goodreads.com/series/40910-the-mistborn-saga) by Brandon Sanderson
+- 📕 I'm currently reading the [Stormlight Archive](https://www.goodreads.com/series/49075-the-stormlight-archive) by Brandon Sanderson
 - 🥅 2022 Goal: Contribute more to Open Source Projects
 - 🎲 I'm a fan of [Critical Role](https://critrole.com/)
 - 💻 My current primary language is 🐍 Python
@@ -19,8 +19,7 @@
 <br />
 
 ### Languages and Tools
-
-<img align="left" alt="RStudio" width="26px" src="https://www.r-project.org/Rlogo.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -47,10 +46,3 @@
 ➡️ [more blog posts...](https://mbarrows20.github.io/Home/)
 
 ---
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-  <img align="left" alt="MBarrows20's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=MBarrows20&show_icons=true&hide_border=true" />

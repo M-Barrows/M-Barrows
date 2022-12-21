@@ -13,7 +13,7 @@
 ### Connect with me
 
 <a rel="me" href="https://hachyderm.io/@CodeAndCoffee">🐘Mastodon</a>
-<a href="www.linkedin.com/in/michaelabarrows">👨‍🏫LinkedIn</a>
+<a href="https://www.linkedin.com/in/michaelabarrows">👨‍🏫LinkedIn</a>
 
 
 <br />

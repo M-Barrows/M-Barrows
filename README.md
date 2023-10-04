@@ -37,11 +37,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It’s Always DNS](http://codecoffee.org/lessons%20learned/2023/10/03/It's-Always-DNS.html)
 - [Containerizing My Jekyll Blog](http://codecoffee.org/show%20and%20tell/2023/09/18/Containerizing-My-Jekyll-Blog-With-CI-CD.html)
 - [I Linked My GitHub Pages Website To My Google Domain](http://codecoffee.org/tutorial/2023/02/17/Link-GitHub-Pages-And-Google-Domains.html)
 - [How To Create a Random Pairing Generator For Your Secret Holiday Gift Exchange - Python Edition!](http://codecoffee.org/tutorial/2022/12/06/Creating-A-Random-Secret-Santa-Generator-Python.html)
 - [How To Create a Random Pairing Generator For Your Secret Holiday Gift Exchange](http://codecoffee.org/tutorial/2020/11/03/Creating-A-Random-Secret-Santa-Generator.html)
-- [How To Use Row Level Security and Visual Filters to Set Highly Customizable Data Security in Power BI Reports](http://codecoffee.org/tutorial/2020/11/01/Power-BI-Row-Level-Security-With-Organizational-Rollups.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://mbarrows20.github.io/Home/)

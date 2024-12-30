@@ -36,11 +36,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s Always DNS](http://codecoffee.org/lessons%20learned/2023/10/03/It's-Always-DNS.html)
-- [Containerizing My Jekyll Blog](http://codecoffee.org/show%20and%20tell/2023/09/18/Containerizing-My-Jekyll-Blog-With-CI-CD.html)
-- [I Linked My GitHub Pages Website To My Google Domain](http://codecoffee.org/tutorial/2023/02/17/Link-GitHub-Pages-And-Google-Domains.html)
-- [How To Create a Random Pairing Generator For Your Secret Holiday Gift Exchange - Python Edition!](http://codecoffee.org/tutorial/2022/12/06/Creating-A-Random-Secret-Santa-Generator-Python.html)
-- [How To Create a Random Pairing Generator For Your Secret Holiday Gift Exchange](http://codecoffee.org/tutorial/2020/11/03/Creating-A-Random-Secret-Santa-Generator.html)
+- [Code And Coffee](https://codecoffee.org/index)
+- [It&#39;s Always DNS](https://codecoffee.org/blog/2023-10-03-It's-Always-DNS)
+- [Containerizing My Jekyll Blog](https://codecoffee.org/blog/2023-09-19-Containerizing-My-Jekyll-Blog-With-CI-CD)
+- [I Linked My GitHub Pages Website To My Google Domain](https://codecoffee.org/blog/2023-02-17-Link-GitHub-Pages-And-Google-Domains)
+- [How To Create a Random Pairing Generator For Your Secret Holiday Gift Exchange - Python Edition!](https://codecoffee.org/blog/2022-12-06-Random-Secret-Santa-Generator-Python)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://mbarrows20.github.io/Home/)

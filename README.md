@@ -36,7 +36,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Website Redesign - Bootstrap and Bulma and Tailwind, Oh My!](https://codecoffee.org/blog/2025-01-13-Website-Redesign-With-Tailwind)
+- [Code And Coffee](https://codecoffee.org/index)
 - [It&#39;s Always DNS](https://codecoffee.org/blog/2023-10-03-It's-Always-DNS)
 - [Containerizing My Jekyll Blog](https://codecoffee.org/blog/2023-09-19-Containerizing-My-Jekyll-Blog-With-CI-CD)
 - [I Linked My GitHub Pages Website To My Google Domain](https://codecoffee.org/blog/2023-02-17-Link-GitHub-Pages-And-Google-Domains)
